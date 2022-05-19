@@ -1,0 +1,64 @@
+html,
+body {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.typo-h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.typo-h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.typo-body {
+  color: gray;
+  font-size: 21px;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.video {
+  width: 290px;
+  height: 550px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.mt-12 {
+  margin-top: 48px;
+}
+
+.mt-6 {
+  margin-top: 24px;
+}
